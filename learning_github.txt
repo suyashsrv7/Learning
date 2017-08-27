@@ -1,1 +1,10 @@
-#commands on github
+#commands on git
+	-git init   : creates an empty git repository or reinitialises an empty one.
+	-git add .  : adds working copy of your project to the staging area.
+	-git status : shows the status of tracked and untracked files.
+	-git commit : commit the changes in working copy to the repository.
+	-git log	: shows commit logs.
+	-git diff 	: shows difference between the working copy and the repository.
+	-git rm		: removes (deletes) file.
+	-git mv		: used to rename a particular file.
+	
