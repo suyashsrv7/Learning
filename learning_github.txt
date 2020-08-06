@@ -7,4 +7,5 @@
 	-git diff 	: shows difference between the working copy and the repository.
 	-git rm		: removes (deletes) file.
 	-git mv		: used to rename a particular file.
+this is sample code on master
 	
